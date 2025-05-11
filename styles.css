@@ -1,0 +1,21 @@
+.header{
+    background-color: #1F2937;
+    font-family: roboto;
+    display: flex;
+}
+
+.header-one{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header-two{
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.one .two .three .content-one{
+    font-size: 18px;
+    color: #e5e7eb;
+}
